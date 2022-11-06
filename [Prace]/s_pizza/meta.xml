@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <map src="map/s_pizza_mapa.map" dimension="0"></map>
+    <script src="map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src = "c.lua" type="client" cache = "false"/>
+    <script src = "s.lua" type="server"/>
+    <file src = "font.ttf" type = "client"/>
+    <file src = "font-medium.ttf" type = "client"/>
+    <file src = "font-thick.ttf" type = "client"/>
+    <file src = "arrow.png" type = "client"/>
+</meta>

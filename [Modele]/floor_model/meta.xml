@@ -1,0 +1,7 @@
+<meta>
+
+<script src="c.lua" type="client"/>
+<file src ="sara.dff"/>
+<file src ="sara.col"/>
+<file src ="brickgrey.txd"/>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client" cache = "false" />
+    <script src="spawnChooser.lua" type="client" cache = "false" />
+    <file src="font.ttf"/>
+    <file src="i/lock.png"/>
+    <file src="i/user.png"/>
+    <file src="i/panel.png"/>
+    <file src="i/bgrd.png"/>
+    <file src="i/spawn_blueberry.png"/>
+    <file src="i/spawn_dillimore.png"/>
+    <file src="i/spawn_montgomery.png"/>
+    <file src="i/img.png"/>
+    <file src="music.mp3"/>
+</meta>

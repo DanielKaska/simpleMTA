@@ -1,0 +1,5 @@
+<meta>
+    <file src = "trash.dff"/>
+    <file src = "trash.txd"/>
+    <script src="rep.lua" type="client" cache = "false"/>
+</meta>

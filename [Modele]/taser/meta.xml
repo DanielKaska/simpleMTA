@@ -1,0 +1,5 @@
+<meta>
+    <script src = "c.lua" type = "client" cache = "false"/>
+    <file src = "silenced.dff" type="client"/>
+    <file src = "silenced.txd" type="client"/>
+</meta>

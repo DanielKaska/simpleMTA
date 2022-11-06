@@ -1,0 +1,16 @@
+<meta>
+    <script src = "s.lua" type = "server"/>
+    <script src = "wheatCarrier.lua" type = "client" cache = "false"/>
+    <script src = "wheatDelivery.lua" type = "client" cache = "false"/>
+
+    
+    <file src = "font.ttf" type = "client"/>
+    <file src = "font-medium.ttf" type = "client"/>
+    <file src = "font-thick.ttf" type = "client"/>
+    <file src = "i/truck.png" type = "client"/>
+    <oop>true</oop>
+    <script src="map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <info type="map" version="1.0.0"></info>
+    <map src="map/s_farma_mapa.map" dimension="0"></map>
+</meta>

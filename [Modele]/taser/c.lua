@@ -1,0 +1,6 @@
+addEventHandler("onClientResourceStart", resourceRoot, function ()
+	txd2 = engineLoadTXD ( "silenced.txd", 347 )
+	engineImportTXD ( txd2, 347 )
+    dff2 = engineLoadDFF ( "silenced.dff", 37 )
+    engineReplaceModel ( dff2, 347 )
+end)

@@ -1,0 +1,6 @@
+<meta>
+    <script src="c.lua" type="client" cache = "false"/>
+    <file src ="sapd2.dff"/>
+    <file src ="police.txd"/>
+    <file src ="sapd.col"/>
+</meta>

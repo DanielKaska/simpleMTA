@@ -1,0 +1,6 @@
+addEventHandler("onClientResourceStart", resourceRoot, function ()
+	txd = engineLoadTXD ( "colt45.txd", 346 )
+	engineImportTXD ( txd, 346 )
+    dff = engineLoadDFF ( "colt45.dff", 346 )
+    engineReplaceModel ( dff, 346 )
+end)

@@ -1,0 +1,6 @@
+<meta>
+    <script src="c.lua" type="client" cache = "false"/>
+    <file src ="przecho_dillimore.dff"/>
+    <file src ="przecho_dillimore.txd"/>
+    <file src ="przecho_dillimore.col"/>
+</meta>

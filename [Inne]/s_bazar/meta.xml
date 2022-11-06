@@ -1,0 +1,35 @@
+<meta>
+    <script src="c.lua" type="client" cache = "false"/>
+    <script src="s.lua" type="server"/>
+    <file src = "i/koszulka.png"/>
+    <file src = "i/1.png"/>
+    <file src = "i/2.png"/>
+    <file src = "i/7.png"/>
+    <file src = "i/13.png"/>
+    <file src = "i/15.png"/>
+    <file src = "i/16.png"/>
+    <file src = "i/21.png"/>
+    <file src = "i/25.png"/>
+    <file src = "i/29.png"/>
+    <file src = "i/32.png"/>
+    <file src = "i/41.png"/>
+    <file src = "i/44.png"/>
+    <file src = "i/56.png"/>
+    <file src = "i/58.png"/>
+    <file src = "i/68.png"/>
+    <file src = "i/78.png"/>
+    <file src = "i/79.png"/>
+    <file src = "i/86.png"/>
+    <file src = "i/101.png"/>
+    <file src = "i/105.png"/>
+    <file src = "i/106.png"/>
+    <file src = "i/113.png"/> 
+    <file src = "i/115.png"/>
+    <file src = "i/136.png"/>
+    <file src = "i/142.png"/>
+    <file src = "i/158.png"/>
+    <file src = "i/160.png"/>
+    <file src = "i/212.png"/>
+    <file src = "i/220.png"/>
+    <file src = "i/239.png"/>
+</meta>

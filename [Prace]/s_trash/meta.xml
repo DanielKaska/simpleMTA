@@ -1,0 +1,10 @@
+<meta>
+    <script src = "jobGUI.lua" type = "client" cache = "false"/>
+    <script src = "s.lua" type = "server"/>
+    <script src = "jobHandler_client.lua" type = "client"/>
+    <script src = "jobHandler_server.lua" type = "server"/>
+    <file src = "utilities/trash-bg.png"/>
+    <file src = "utilities/img.png"/>
+    <file src = "utilities/font.ttf"/>
+    <file src = "utilities/font-thick.ttf"/>
+</meta>

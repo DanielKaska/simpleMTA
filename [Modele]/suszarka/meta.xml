@@ -1,0 +1,5 @@
+<meta>
+    <script src="c_replace.lua" type="client" />
+    <file src="colt45.dff" />
+    <file src="colt45.txd" />
+</meta>

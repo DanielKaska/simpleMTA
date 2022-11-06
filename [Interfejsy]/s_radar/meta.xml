@@ -1,0 +1,78 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+	<script src = "map.lua" type = "client"/>
+
+	<file src="data/hud_mask.fx" type="client" />
+	<file src="data/crosshair.png" type="client" />
+	<file src="data/tex_matrix.fx" type="client" />
+	<file src="data/world.png" type="client" />
+	<file src="data/overlay.png" type="client" />
+	<file src="data/circle_mask.png" type="client" />
+	<file src="data/font.ttf" type="client" />
+	<file src="data/player.png" type="client"></file>
+	<file src="data/blips/0.png" type="client"></file>
+	<file src="data/blips/1.png" type="client"></file>
+	<file src="data/blips/2.png" type="client"></file>
+	<file src="data/blips/3.png" type="client"></file>
+	<file src="data/blips/4.png" type="client"></file>
+	<file src="data/blips/5.png" type="client"></file>
+	<file src="data/blips/6.png" type="client"></file>
+	<file src="data/blips/7.png" type="client"></file>
+	<file src="data/blips/8.png" type="client"></file>
+	<file src="data/blips/9.png" type="client"></file>
+	<file src="data/blips/10.png" type="client"></file>
+	<file src="data/blips/11.png" type="client"></file>
+	<file src="data/blips/12.png" type="client"></file>
+	<file src="data/blips/13.png" type="client"></file>
+	<file src="data/blips/14.png" type="client"></file>
+	<file src="data/blips/15.png" type="client"></file>
+	<file src="data/blips/16.png" type="client"></file>
+	<file src="data/blips/17.png" type="client"></file>
+	<file src="data/blips/18.png" type="client"></file>
+	<file src="data/blips/19.png" type="client"></file>
+	<file src="data/blips/20.png" type="client"></file>
+	<file src="data/blips/21.png" type="client"></file>
+	<file src="data/blips/22.png" type="client"></file>
+	<file src="data/blips/23.png" type="client"></file>
+	<file src="data/blips/24.png" type="client"></file>
+	<file src="data/blips/25.png" type="client"></file>
+	<file src="data/blips/26.png" type="client"></file>
+	<file src="data/blips/27.png" type="client"></file>
+	<file src="data/blips/28.png" type="client"></file>
+	<file src="data/blips/29.png" type="client"></file>
+	<file src="data/blips/30.png" type="client"></file>
+	<file src="data/blips/31.png" type="client"></file>
+	<file src="data/blips/32.png" type="client"></file>
+	<file src="data/blips/33.png" type="client"></file>
+	<file src="data/blips/34.png" type="client"></file>
+	<file src="data/blips/35.png" type="client"></file>
+	<file src="data/blips/36.png" type="client"></file>
+	<file src="data/blips/37.png" type="client"></file>
+	<file src="data/blips/38.png" type="client"></file>
+	<file src="data/blips/39.png" type="client"></file>
+	<file src="data/blips/40.png" type="client"></file>
+	<file src="data/blips/41.png" type="client"></file>
+	<file src="data/blips/42.png" type="client"></file>
+	<file src="data/blips/43.png" type="client"></file>
+	<file src="data/blips/44.png" type="client"></file>
+	<file src="data/blips/45.png" type="client"></file>
+	<file src="data/blips/46.png" type="client"></file>
+	<file src="data/blips/47.png" type="client"></file>
+	<file src="data/blips/48.png" type="client"></file>
+	<file src="data/blips/49.png" type="client"></file>
+	<file src="data/blips/50.png" type="client"></file>
+	<file src="data/blips/51.png" type="client"></file>
+	<file src="data/blips/52.png" type="client"></file>
+	<file src="data/blips/53.png" type="client"></file>
+	<file src="data/blips/54.png" type="client"></file>
+	<file src="data/blips/55.png" type="client"></file>
+	<file src="data/blips/56.png" type="client"></file>
+	<file src="data/blips/57.png" type="client"></file>
+	<file src="data/blips/58.png" type="client"></file>
+	<file src="data/blips/59.png" type="client"></file>
+	<file src="data/blips/60.png" type="client"></file>
+	<file src="data/blips/61.png" type="client"></file>
+	<file src="data/blips/62.png" type="client"></file>
+	<file src="data/blips/63.png" type="client"></file>
+</meta>

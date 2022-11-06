@@ -1,0 +1,12 @@
+<meta>
+    <script src="c.lua" type = "client" cache = "false"/>
+    <script src="s.lua" type = "server"/>
+    <file src="utility/dash.png"/>
+    <file src="utility/button.png"/>
+    <file src="utility/button_click.png"/>
+    <file src="utility/tab.png"/>
+    <file src="utility/cars_tab.png"/>
+    <file src="utility/font.ttf"/>
+    <file src="utility/font-thick.ttf"/>
+    <file src="utility/font-medium.ttf"/>
+</meta> 

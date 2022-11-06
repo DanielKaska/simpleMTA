@@ -1,0 +1,6 @@
+<meta>
+    <script src = "c.lua" type = "client" cache = "false"/>
+    <file src = "i/noti_bgrd.png"/>
+    <file src = "alert_sound.mp3"/>
+    <file src = "Nunito-Regular.ttf"/>
+</meta>

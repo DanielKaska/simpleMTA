@@ -1,0 +1,11 @@
+<meta>
+    <script src="c.lua" type="client" cache = "false"/>
+    <min_mta_version client="1.4.9" server="1.4.9" />
+	<file src="images/rect_mask.png" type="client" />
+	<file src="images/circle_mask.png" type="client" />
+    <file src="hud_mask.fx" type="client" />
+    <file src="font.ttf" type="client" />
+    <file src="include/tex_matrix.fx" type="client" />
+	<export function="dxCreateBlip" type="client" />
+	<export function="dxCreateBlipAttachedTo" type="client" />
+</meta>

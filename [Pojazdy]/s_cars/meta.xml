@@ -1,0 +1,18 @@
+<meta>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client"/>
+    <file src = "font.ttf"/>
+    <file src="i/car.png"/>
+    <file src="i/garage.png"/>
+    <file src="i/background.png"/>
+    <file src="i/take_tab.png"/>
+    <file src="i/button.png"/>
+    <file src="i/button_click.png"/>
+    <file src="i/bars.png"/>
+
+    <oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+    <map src="dillimore_map/s_przecho_dilli_map.map" dimension="0"></map>
+    <script src="dillimore_map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="dillimore_map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>    
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+    <script src = "c.lua" type="client" cache = "false" />
+    <script src = "s.lua" type="server"/>
+    <file src = "i/font.ttf" type = "client"/>
+    <file src = "i/ring.png" type = "client"/>
+    <file src = "i/door.png" type = "client"/>
+    <file src = "i/hiring.png" type = "client"/>
+    <file src = "i/line.png" type = "client"/>
+    <export function="createCustomMarker" type="server" />
+
+</meta>

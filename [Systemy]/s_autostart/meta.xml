@@ -1,0 +1,8 @@
+<meta>
+	<script src="autostartek_s.lua" type="server" />
+
+	<aclrequest>
+		<right name="function.startResource" access="true" />
+    </aclrequest>
+
+</meta>

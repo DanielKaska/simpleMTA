@@ -1,0 +1,11 @@
+<meta>
+    <script src="c_core.lua" type="client" cache = "false" />
+    <script src="s_core.lua" type="server" />
+    <script src = "admins.lua" type = "server"/>
+    <script src = "suszarka.lua" type = "client" cache = "false"/>
+    <script src="s_suszarka.lua" type="server" />
+    <file src="font.ttf" type = "client"/>
+    <file src="img.png" type = "client"/>
+    <export function="findPlayer" type="server" />
+    <min_mta_version server="1.5.7-9.19626"></min_mta_version>
+</meta>

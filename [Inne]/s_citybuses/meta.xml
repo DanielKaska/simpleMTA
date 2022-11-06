@@ -1,0 +1,9 @@
+<meta>
+    <script src = "s.lua" type = "server"/>
+    <script src = "c.lua" type = "client" cache = "false"/>
+    <file src = "font.ttf"/>
+    <file src = "img/img1.jpg"/>
+    <file src = "img/img2.jpg"/>
+    <file src = "img/img3.jpg"/>
+    <file src = "img/img4.jpg"/>
+</meta>

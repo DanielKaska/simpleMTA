@@ -1,0 +1,7 @@
+<meta>
+
+<script src = "c.lua" type = "client" cache = "false"/>
+
+<file src = "pizza_sign.dff"/>
+<file src = "pizza_sign.txd"/>
+</meta>

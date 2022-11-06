@@ -1,0 +1,5 @@
+<meta>
+    <script src = "s.lua" type = "server" />
+    <export function="insert" type="server" />
+    <export function="get" type="server" />
+</meta>
