@@ -24,27 +24,6 @@ addEventHandler("onPlayerJoin", root, greetPlayer)]]
 
 addEvent("logged", true)
 
-function table.toString(tab)
-    if type(tab) ~= 'table' then return false end
-    local str = '{'
-    for k,v in pairs(tab) do
-        local kType = (type(k) == 'string') and "'%s'" or (type(k) == 'number') and "%s"
-        if type(v) == 'string' then
-            str = string.format(str.."[%s]='%s',",string.format(kType,k),v)
-        elseif type(v) == 'number' then
-            str = string.format(str.."[%s]=%s,",string.format(kType,k),v)
-        elseif type(v) == 'table' then
-            str = string.format(str.."[%s]=%s,",string.format(kType,k),table.toString(v))
-        end
-    end
-    return (str == '{' and '{}' or string.sub(str,1,-2)..'}')
-end
-
-function table.fromString(str)
-    if type(str) ~= 'string' then return false end
-    return (loadstring)('return '..str)()
-end
-
 --Camera positioning--------------------------------------------------------------------------------------
 
 spawnPoints = {
